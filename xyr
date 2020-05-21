@@ -21,9 +21,9 @@ finishlogo='
 
 				by 何以潇™  破解时间：2018-06-03
 ============================================================';
-http='http://';
-host='lk.xfyll.cn:99/';
-vpnfile=xyrlk/;
+http='https://';
+host='github.com/';
+vpnfile=jinjiuling/liukong/raw/master/;
 sq=squid.conf;
 squser=auth_user;
 css=errorpage.css;
